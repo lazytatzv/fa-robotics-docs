@@ -3,6 +3,7 @@
 このディレクトリには、システム構成図、安全設計、機器選定の比較表、意思決定記録（ADR）を格納します。
 
 - [`system_overview.md`](./system_overview.md) — **全体アーキテクチャ統合図（Task 1 想定構成）**
+- [`pro_selection_playbook.md`](./pro_selection_playbook.md) — **プロの機器・センサ選定プレイブック（裏チェック基準・調達ルール）**
 - [`robot_selection.md`](./robot_selection.md) — 協働ロボット選定メモ（100万円前後帯・6軸方針）
 - [`end_effector_selection.md`](./end_effector_selection.md) — エンドエフェクタ選定メモ（Task 1：真空吸引 vs グリッパ）
 - [`vision_and_ai.md`](./vision_and_ai.md) — ビジョン・AI認識方針（RGB-D / YOLO / PoE vs USB）
