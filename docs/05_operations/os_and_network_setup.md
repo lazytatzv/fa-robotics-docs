@@ -37,6 +37,12 @@ flowchart LR
 
 ## 2. Ubuntu OS 本番設定チェックリスト
 
+### なぜ他の Linux ではなく「Ubuntu LTS」なのか？
+- **ROS 2 の Tier 1 公式サポート**：ROS 2 Humble（Ubuntu 22.04 LTS）および Jazzy（Ubuntu 24.04 LTS）は Ubuntu が第一級サポート対象。Debian や Rocky Linux 等ではソースビルドや依存関係のトラブルが増えやすい。
+- **GPU（CUDA / TensorRT）＆ メーカーSDKの標準**：NVIDIA ドライバ、RealSense / Orbbec SDK、ロボットメーカーの Linux SDK はほぼすべて Ubuntu LTS 前提で検証・配布されている。
+- **22.04 LTS と 24.04 LTS の選び方**：採用予定の**ロボット SDK とカメラ SDK の両方が公式対応している新しい方の LTS** を選ぶ（未対応ならホストは 22.04/24.04 でも Docker 内を 22.04 Humble に合わせる）。
+- **Desktop vs Server**：現場で急遽モニターを繋いで確認したい場面もあるため、迷ったら **Ubuntu Desktop LTS**（ただし自動更新とスリープは必ず無効化）が扱いやすい。
+
 開発用 PC の初期設定のまま工場に入れると、自動アップデートやスリープで突然止まります。出荷前に以下を必ず設定します。
 
 ### ① 自動アップデート・スリープの無効化（最優先）
