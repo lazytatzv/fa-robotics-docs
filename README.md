@@ -22,7 +22,7 @@
 - [`hearing_template.md`](./docs/01_field_analysis/hearing_template.md) — 現場ヒアリング・抜け漏れチェック用テンプレート
 
 ### 2. 進め方・PoC計画 (`docs/02_execution_plan/`)
-- [`team_strategy.md`](./docs/02_execution_plan/team_strategy.md) — **少人数・ソフト系チームがやり切るための現実的戦略（段階的割り切り・役割分担）**
+- [`team_strategy.md`](./docs/02_execution_plan/team_strategy.md) — **戦い方・チーム編成・パートナー戦略（5人前後のスタートアップ向け）**
 - [`fa_roadmap.md`](./docs/02_execution_plan/fa_roadmap.md) — 手戻りを防ぐFA導入ロードマップ（Step 1〜5）
 - [`poc_checklist.md`](./docs/02_execution_plan/poc_checklist.md) — **Task 1 PoC（要素検証）チェックリスト**
 - [`development_workflow.md`](./docs/02_execution_plan/development_workflow.md) — **開発ワークフロー・環境・ツール・作業場所ガイド**
