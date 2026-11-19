@@ -37,6 +37,7 @@
 - [`end_effector_selection.md`](./docs/04_architecture/end_effector_selection.md) — エンドエフェクタ選定（真空吸引 vs グリッパ）
 - [`vision_and_ai.md`](./docs/04_architecture/vision_and_ai.md) — ビジョン・AI認識（RGB-D・YOLO・PoE vs USB）
 - [`controller_and_pc.md`](./docs/04_architecture/controller_and_pc.md) — コントローラ構成・PC接続・OS選定（Ubuntu）
+- [`ros2_vs_python_sdk.md`](./docs/04_architecture/ros2_vs_python_sdk.md) — ROS 2 を使うべきか（ROS 2 vs 公式 Python SDK）
 - [`pc_selection.md`](./docs/04_architecture/pc_selection.md) — 制御PC選定（GPU / 産業用IPC vs Jetson）
 - [`power_and_wiring.md`](./docs/04_architecture/power_and_wiring.md) — 電源設計・降圧（DC24V）・ノイズ対策
 
