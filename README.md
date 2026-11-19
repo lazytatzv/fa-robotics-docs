@@ -24,6 +24,7 @@
 ### 2. 進め方・PoC計画 (`docs/02_execution_plan/`)
 - [`fa_roadmap.md`](./docs/02_execution_plan/fa_roadmap.md) — 手戻りを防ぐFA導入ロードマップ（Step 1〜5）
 - [`poc_checklist.md`](./docs/02_execution_plan/poc_checklist.md) — **Task 1 PoC（要素検証）チェックリスト**
+- [`development_workflow.md`](./docs/02_execution_plan/development_workflow.md) — **開発ワークフロー・環境・ツール・作業場所ガイド**
 
 ### 3. ソフト屋向け ロボット・FA基礎教材 (`docs/03_robotics_handbook/`)
 - [`README.md`](./docs/03_robotics_handbook/README.md) — ソフト開発とFAのギャップ一覧
