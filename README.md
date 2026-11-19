@@ -46,6 +46,7 @@
 
 ### 5. 外部連携・保守運用 (`docs/05_operations/`)
 - [`connectivity_and_maintenance.md`](./docs/05_operations/connectivity_and_maintenance.md) — 周辺設備連携（コンベア/センサ/LTE保守）と導入後メンテナンス設計
+- [`os_and_network_setup.md`](./docs/05_operations/os_and_network_setup.md) — **OS本番設定（Ubuntu）と工場ネットワーク構成（2系統分離）**
 
 ---
 
