@@ -29,6 +29,7 @@
 
 ### 3. ソフト屋向け ロボット・FA基礎教材 (`docs/03_robotics_handbook/`)
 - [`README.md`](./docs/03_robotics_handbook/README.md) — ソフト開発とFAのギャップ一覧
+- [`study_roadmap.md`](./docs/03_robotics_handbook/study_roadmap.md) — **案件受注前にやっておくべき実践勉強メニュー（4週間ハンズオン）**
 - [`00_essential_curriculum.md`](./docs/03_robotics_handbook/00_essential_curriculum.md) — **ロボット素人が身につけるべき必須知識・完全チェックリスト**
 - [`01_coordinates_and_tf.md`](./docs/03_robotics_handbook/01_coordinates_and_tf.md) — 座標系（TF）と Hand-Eye キャリブレーション
 - [`02_kinematics_and_motion.md`](./docs/03_robotics_handbook/02_kinematics_and_motion.md) — 運動学（FK/IK）・MoveJ/MoveL・特異点回避
