@@ -41,6 +41,7 @@
 - [`robot_selection.md`](./docs/04_architecture/robot_selection.md) — 協働ロボット選定（100万円前後帯・6軸方針）
 - [`end_effector_selection.md`](./docs/04_architecture/end_effector_selection.md) — エンドエフェクタ選定（真空吸引 vs グリッパ）
 - [`vision_and_ai.md`](./docs/04_architecture/vision_and_ai.md) — ビジョン・AI認識（RGB-D・YOLO・PoE vs USB）
+- [`sensors_guide.md`](./docs/04_architecture/sensors_guide.md) — **使うセンサ・知っておくべき FA センサ一覧**
 - [`controller_and_pc.md`](./docs/04_architecture/controller_and_pc.md) — コントローラ構成・PC接続・OS選定（Ubuntu）
 - [`ros2_vs_python_sdk.md`](./docs/04_architecture/ros2_vs_python_sdk.md) — ROS 2 を使うべきか（ROS 2 vs 公式 Python SDK）
 - [`pc_selection.md`](./docs/04_architecture/pc_selection.md) — 制御PC選定（GPU / 産業用IPC vs Jetson）
