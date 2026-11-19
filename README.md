@@ -39,6 +39,7 @@
 
 ### 4. システムアーキテクチャ・選定 (`docs/04_architecture/`)
 - [`system_overview.md`](./docs/04_architecture/system_overview.md) — **全体アーキテクチャ統合図**
+- [`software_stack.md`](./docs/04_architecture/software_stack.md) — **推奨ソフトウェアスタック一覧（OS / Docker / ROS 2 / AI / Python）**
 - [`pro_selection_playbook.md`](./docs/04_architecture/pro_selection_playbook.md) — **プロの機器・センサ選定プレイブック（裏チェック基準）**
 - [`robot_selection.md`](./docs/04_architecture/robot_selection.md) — 協働ロボット選定（100万円前後帯・6軸方針）
 - [`end_effector_selection.md`](./docs/04_architecture/end_effector_selection.md) — エンドエフェクタ選定（真空吸引 vs グリッパ）
