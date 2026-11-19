@@ -4,3 +4,4 @@
 
 - [`robot_selection.md`](./robot_selection.md) — 協働ロボット選定メモ（100万円前後帯・軸数方針）
 - [`end_effector_selection.md`](./end_effector_selection.md) — エンドエフェクタ選定メモ（Task 1：真空吸引 vs グリッパ）
+- [`vision_and_ai.md`](./vision_and_ai.md) — ビジョン・AI認識方針（Task 1：カメラ・YOLO活用）
