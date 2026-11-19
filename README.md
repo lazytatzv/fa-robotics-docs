@@ -40,6 +40,9 @@
 - [`pc_selection.md`](./docs/04_architecture/pc_selection.md) — 制御PC選定（GPU / 産業用IPC vs Jetson）
 - [`power_and_wiring.md`](./docs/04_architecture/power_and_wiring.md) — 電源設計・降圧（DC24V）・ノイズ対策
 
+### 5. 外部連携・保守運用 (`docs/05_operations/`)
+- [`connectivity_and_maintenance.md`](./docs/05_operations/connectivity_and_maintenance.md) — 周辺設備連携（コンベア/センサ/LTE保守）と導入後メンテナンス設計
+
 ---
 
 ## チームでの運用ルール（案）
