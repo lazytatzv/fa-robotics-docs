@@ -44,6 +44,7 @@
 - [`pro_selection_playbook.md`](./docs/04_architecture/pro_selection_playbook.md) — **プロの機器・センサ選定プレイブック（裏チェック基準）**
 - [`robot_selection.md`](./docs/04_architecture/robot_selection.md) — 協働ロボット選定（100万円前後帯・6軸方針）
 - [`end_effector_selection.md`](./docs/04_architecture/end_effector_selection.md) — エンドエフェクタ選定（真空吸引 vs グリッパ）
+- [`chute_and_feeder_mechanisms.md`](./docs/04_architecture/chute_and_feeder_mechanisms.md) — **ボトル供給シュート・平準化機構（スロープ・振動加振・ターンテーブル）**
 - [`vision_and_ai.md`](./docs/04_architecture/vision_and_ai.md) — ビジョン・AI認識（RGB-D・YOLO・PoE vs USB）
 - [`sensors_guide.md`](./docs/04_architecture/sensors_guide.md) — **使うセンサ・知っておくべき FA センサ一覧**
 - [`controller_and_pc.md`](./docs/04_architecture/controller_and_pc.md) — コントローラ構成・PC接続・OS選定（Ubuntu）
